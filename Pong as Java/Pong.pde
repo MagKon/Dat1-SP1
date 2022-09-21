@@ -56,7 +56,7 @@ void setup() {
   
   img = loadImage("Lord_And_Savior.png");
   
-    if (restart == -1) {
+  if (restart == -1) {
     background(255);
     rectMode(CENTER);
     textSize(16);
